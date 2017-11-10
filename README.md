@@ -1,2 +1,0 @@
-# Dynamics-Project-3
-Welcome to my dymacis project 3. The purpose of project 3 was to determine the angular displacement of a half cylindar and a hockpuck system at any given point in time using lagrangian dynamics. Below is the problem statement provided by my instructor, videos visually illustrating the hockpuck / half cylindar system, the mathematica notebook for our calculations and a PDF with our final submission to our instuctor.
